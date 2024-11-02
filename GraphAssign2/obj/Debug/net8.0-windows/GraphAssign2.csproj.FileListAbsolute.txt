@@ -1,0 +1,16 @@
+C:\Users\Cindy\OneDrive\Desktop\code\GraphAssign2\GraphAssign2\obj\Debug\net8.0-windows\GraphAssign2.Form1.resources
+C:\Users\Cindy\OneDrive\Desktop\code\GraphAssign2\GraphAssign2\obj\Debug\net8.0-windows\GraphAssign2.csproj.GenerateResource.cache
+C:\Users\Cindy\OneDrive\Desktop\code\GraphAssign2\GraphAssign2\obj\Debug\net8.0-windows\GraphAssign2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cindy\OneDrive\Desktop\code\GraphAssign2\GraphAssign2\obj\Debug\net8.0-windows\GraphAssign2.AssemblyInfoInputs.cache
+C:\Users\Cindy\OneDrive\Desktop\code\GraphAssign2\GraphAssign2\obj\Debug\net8.0-windows\GraphAssign2.AssemblyInfo.cs
+C:\Users\Cindy\OneDrive\Desktop\code\GraphAssign2\GraphAssign2\obj\Debug\net8.0-windows\GraphAssign2.csproj.CoreCompileInputs.cache
+C:\Users\Cindy\OneDrive\Desktop\code\GraphAssign2\GraphAssign2\bin\Debug\net8.0-windows\GraphAssign2.exe
+C:\Users\Cindy\OneDrive\Desktop\code\GraphAssign2\GraphAssign2\bin\Debug\net8.0-windows\GraphAssign2.deps.json
+C:\Users\Cindy\OneDrive\Desktop\code\GraphAssign2\GraphAssign2\bin\Debug\net8.0-windows\GraphAssign2.runtimeconfig.json
+C:\Users\Cindy\OneDrive\Desktop\code\GraphAssign2\GraphAssign2\bin\Debug\net8.0-windows\GraphAssign2.dll
+C:\Users\Cindy\OneDrive\Desktop\code\GraphAssign2\GraphAssign2\bin\Debug\net8.0-windows\GraphAssign2.pdb
+C:\Users\Cindy\OneDrive\Desktop\code\GraphAssign2\GraphAssign2\obj\Debug\net8.0-windows\GraphAssign2.dll
+C:\Users\Cindy\OneDrive\Desktop\code\GraphAssign2\GraphAssign2\obj\Debug\net8.0-windows\refint\GraphAssign2.dll
+C:\Users\Cindy\OneDrive\Desktop\code\GraphAssign2\GraphAssign2\obj\Debug\net8.0-windows\GraphAssign2.pdb
+C:\Users\Cindy\OneDrive\Desktop\code\GraphAssign2\GraphAssign2\obj\Debug\net8.0-windows\GraphAssign2.genruntimeconfig.cache
+C:\Users\Cindy\OneDrive\Desktop\code\GraphAssign2\GraphAssign2\obj\Debug\net8.0-windows\ref\GraphAssign2.dll
